@@ -1,0 +1,82 @@
+📝 Todo List Web App JS
+
+A simple and interactive Todo List Application built using HTML, CSS, and Vanilla JavaScript.
+This project allows users to add, mark as completed, and remove tasks in a clean and user-friendly interface.
+
+
+#---------------------------------------------------------------------------------
+🚀 Features
+
+➕ Add new todo items
+
+✅ Mark tasks as completed (line-through effect)
+
+❌ Remove tasks from the list
+
+🖥️ Simple and responsive UI
+
+📜 Dynamic DOM manipulation using JavaScript
+
+
+#---------------------------------------------------------------------------------
+🛠️ Technologies Used
+
+HTML5 – Structure of the app
+
+CSS3 – Styling and layout
+
+JavaScript (ES6) – Functionality & interactivity
+
+#---------------------------------------------------------------------------------
+📂 Project Structure
+todo-list-app/
+│
+├── index.html     # Main HTML file
+├── stylee.css     # Styling file
+├── file.js        # JavaScript logic
+└── README.md      # Project documentation
+
+
+#---------------------------------------------------------------------------------
+⚙️ How It Works
+
+Enter a task in the input field.
+
+Click Add Item to insert it into the list.
+
+Click Done to mark the task as completed.
+
+Click Remove to delete the task.
+
+
+#---------------------------------------------------------------------------------
+📸 UI Preview
+
+Add a screenshot here if you want (optional).
+
+Example:
+
+![App Screenshot](screenshot.png)
+
+#---------------------------------------------------------------------------------
+
+🎯 Learning Objectives
+
+This project helps beginners understand:
+
+DOM manipulation
+
+Event handling
+
+Form submission handling
+
+Dynamic element creation
+
+Event delegation
+
+#---------------------------------------------------------------------------------
+
+👨‍💻 Author
+
+Ubaidullah Khan
+Frontend Developer | JavaScript Learner
